@@ -17,4 +17,4 @@ The entire app lives in `tictactoe.html` as a single self-contained file:
 
 ## Git & GitHub
 
-All changes must be committed with clean messages and pushed to `origin` (github.com/Jaymiletta/C-Coding) after every meaningful change.
+After every meaningful unit of work — a new feature, a bug fix, a refactor, any notable change — commit with a clean descriptive message and push to `origin` (github.com/Jaymiletta/C-Coding). Do not batch multiple unrelated changes into one commit. This ensures we always have a recoverable state and never lose progress.
