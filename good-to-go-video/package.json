@@ -1,0 +1,20 @@
+{
+  "name": "good-to-go-video",
+  "version": "0.0.1",
+  "description": "Good To Go HVAC social media video",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render HeatPumpVideo out/heat-pump.mp4",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.452",
+    "remotion": "4.0.452",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.1",
+    "typescript": "5.5.4"
+  }
+}
